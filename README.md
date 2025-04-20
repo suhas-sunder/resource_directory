@@ -15,6 +15,8 @@ Interview Prep
 
 Group 4:
 Productivity Tips
+Process Vids/Explainers
+Book Reviews
 
 Group 5:
 Mythology
