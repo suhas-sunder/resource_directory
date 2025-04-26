@@ -13,3 +13,18 @@ https://www.youtube.com/watch?v=IVJjm5FE4x8&pp=ygUPbGFwbGFjZSBpbnZlcnNl
 1. Proof of covolution: https://www.youtube.com/watch?v=CysjkFe_HO0
 2. 
 
+
+## Discrete Math:
+- Big O (measuring time complexity)
+    
+- Boolean Algebra
+    
+- Propositional Logic (DeMorgans, etc.)
+    
+- Summation principles (sigma). Like, what's 1 + 2 + 3 + ... + n ? This is closely related to nested looping and determining time complexity for sorting algorithms such as Selection Sort and Insertion Sort
+    
+- Basics of circuit logic
+    
+- Bitwise operations (very useful). Learning what's 1100 & 0011 (solve this one as an example)
+    
+- Proofs by induction (and proofs by contradiction)

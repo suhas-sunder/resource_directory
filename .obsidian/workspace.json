@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "programming/Python.md",
+                "file": "programming/Linux.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Python"
+              "title": "Linux"
             }
           }
         ]
@@ -170,8 +170,18 @@
   },
   "active": "70c06b3803e2bd65",
   "lastOpenFiles": [
-    "Welcome.md",
     "programming/Python.md",
+    "programming/Linux.md",
+    "Pasted image 20250426002405.png",
+    "Pasted image 20250426002252.png",
+    "Pasted image 20250426002101.png",
+    "Pasted image 20250426001353.png",
+    "programming/Software Design ~ Design Patterns.md",
+    "Communication",
+    "Project Management",
+    "programming/Human Computer Interaction.md",
+    "math/math.md",
+    "Welcome.md",
     "programming"
   ]
 }
