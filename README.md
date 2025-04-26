@@ -1,26 +1,9 @@
 # resourceDirectory
-Directory of online resources organized by topic for quick reference.
+## Directory of online resources or learning material for personal use. Organized by topic for quick reference.
 
-Group 1: 
-Math
-Physics
+Utilizes [obsidian](https://obsidian.md/) to take quick notes.
 
-Group 2:
-Programming Concepts
-Languages (JS, C++, Python, Node)
 
-Group 3:
-Algorithms (python)
-Interview Prep
-
-Group 4:
-Productivity Tips
-Process Vids/Explainers
-Book Reviews
-
-Group 5:
-Mythology
-Anime/Cartoon/Movie/Show Essays
 
 
 
