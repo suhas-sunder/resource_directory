@@ -1,4 +1,4 @@
-# Resource Directory ~ Personal Use
+# Resource Directory ~ Personal Use 
 
 ## Directory of online resources or learning material for personal use. Organized by topic for quick reference.
 
